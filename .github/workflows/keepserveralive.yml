@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Ping Hugging Face Space
         run: |
-          curl -I https://muahmad123-dark-tower-chatbot.hf.space
+          curl https://muahmad123-dark-tower-chatbot.hf.space
